@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Hamid Sakhidel
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python & React
-- 💞️ I’m looking to collaborate on ...
 - 📫 every on can reach me via hsakhidel@gmail.com 
 
 <!---
